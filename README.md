@@ -14,8 +14,8 @@ I believe in using technology to solve real-world problems and create meaningful
 
 ## Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elif-yurduseven-a16818347)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kullanıcıadın)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yurdusevenelif0@gmail.com)
+[![Instagram](https://www.instagram.com/)
+[![Email](https://mail.google.com/mail/u/0/?hl=tr#inbox)
 
 ---
 

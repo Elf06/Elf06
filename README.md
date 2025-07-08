@@ -14,32 +14,32 @@ I believe in using technology to solve real-world problems and create meaningful
 
 ## Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elif-yurduseven-a16818347)  
-[![Instagram](https://www.instagram.com/)
-[![Email](https://mail.google.com/mail/u/0/?hl=tr#inbox)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/elif__yrdsvn)  
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yurdusevenelif0@gmail.com)  
 
 ---
 
-## 📌 Projects
-- 🐙 **Submarine Control System** – PX4 + Pixhawk + MAVLink
-- 📸 **Additive Scanner** – AI & OCR-based image analysis
-- 💻 **BTK Ethical Hacking Roadmap** – Ongoing
+## 📌 Projects  
+- 🐙 **Submarine Control System** – PX4 + Pixhawk + MAVLink  
+- 📸 **Additive Scanner** – AI & OCR-based image analysis  
+- 💻 **BTK Ethical Hacking Roadmap** – Ongoing  
 
 ---
 
 ## 🧠 Skills & Interests  
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-blue?style=for-the-badge)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-orange?style=for-the-badge)
-![Pixhawk](https://img.shields.io/badge/Pixhawk-black?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
-![Teknofest](https://img.shields.io/badge/Teknofest-maroon?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
+![AI](https://img.shields.io/badge/Artificial_Intelligence-blue?style=for-the-badge)  
+![Embedded](https://img.shields.io/badge/Embedded_Systems-orange?style=for-the-badge)  
+![Pixhawk](https://img.shields.io/badge/Pixhawk-black?style=for-the-badge)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)  
+![Teknofest](https://img.shields.io/badge/Teknofest-maroon?style=for-the-badge)  
 
 ---
 
-## 📽️ Latest Activity
+## 📽️ Latest Activity  
 - 🛠 PX4 + Gazebo simulation testing  
 - 🧪 Working on machine learning model for label scanning  
-- 🔐 Completing BTK Akademi's Ethical Hacking Pathway
+- 🔐 Completing BTK Akademi's Ethical Hacking Pathway  
 
 ---
 
